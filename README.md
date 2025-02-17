@@ -54,7 +54,7 @@ The API will be available at `http://127.0.0.1:8000/api/`
 
 Execute the test suite using:
 ```
-python manage.py test
+python manage.py test quotes
 ```
 
 ## Example API Usage
