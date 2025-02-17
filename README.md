@@ -12,8 +12,8 @@ A RESTful API to manage a collection of quotes built with Django and Django REST
 
 1. **Clone the Repository**
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Ralle001/django-api.git
+cd django-api
 ```
 
 2. **Create and Activate Virtual Environment**
